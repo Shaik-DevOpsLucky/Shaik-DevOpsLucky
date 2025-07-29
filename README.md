@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaik Moulali</h1>
-<h3 align="center">A passionate AWS DevOps Engineer/Consultant from India</h3>
+<h3 align="center">A passionate AWS DevOps Engineer / Consultant from India</h3>
 
 - 🔭 I’m currently working in **Robotico Digital LLP**
 
